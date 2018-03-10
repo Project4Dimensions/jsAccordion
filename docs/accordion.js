@@ -1,4 +1,4 @@
-/* validated with JSLint edition 2017-04-10 (http://jslint.com/)
+/* validated with JSLint edition 2018-02-27 (http://jslint.com/)
  * no errors reported (JSLint options: Assume… a browser)
  */
 
