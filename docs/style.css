@@ -1,0 +1,9 @@
+/* snippet from style.css (see tinyurl.com/ycrzzzec) */
+
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
